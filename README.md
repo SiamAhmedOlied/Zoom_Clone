@@ -1,83 +1,43 @@
-# 💻 [Siam Ahmed Olied]'s Portfolio
-
-Welcome to my portfolio! I'm a passionate and skilled **Ethical Hacker**, **Front-End Website Developer**, and **Android App Developer**. This website showcases my skills, projects, and experiences, reflecting my dedication to creating secure and engaging digital experiences.
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26uf6vEH6v7lybZ3O/giphy.gif" width="400" alt="coding animation">
-</div>
-
----
-
-## 🌐 About Me
-
-With a solid foundation in web and app development, combined with expertise in ethical hacking, I aim to build applications that are not only visually appealing but also secure and reliable. My goal is to continuously expand my skills and contribute to meaningful projects.
-
-- **Ethical Hacking:** <span class="animate">I specialize in identifying and resolving security vulnerabilities, ensuring robust protection against cyber threats.</span>
-- **Front-End Development:** <span class="animate">I craft intuitive and responsive websites using HTML, CSS, and JavaScript, along with modern frameworks and libraries like React and Vue.</span>
-- **Android Development:** <span class="animate">I develop mobile applications that provide smooth and user-friendly experiences, leveraging Kotlin and Java.</span>
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** HTML, CSS, JavaScript, Kotlin, Java
-- **Front-End:** React, Vue.js, Bootstrap, Tailwind CSS
-- **Back-End:** Node.js, Express
-- **Mobile Development:** Android SDK, Firebase
-- **Cybersecurity:** Kali Linux, Metasploit, Wireshark, Burp Suite
-- **Other Tools:** Git, GitHub, Figma, Adobe XD
-
-## 🚀 Projects
-
-### 1. **[Project Name 1]**
-   - Description: [Brief overview of the project]
-   - Technologies Used: [List of technologies]
-
-### 2. **[Project Name 2]**
-   - Description: [Brief overview of the project]
-   - Technologies Used: [List of technologies]
-
-### 3. **[Project Name 3]**
-   - Description: [Brief overview of the project]
-   - Technologies Used: [List of technologies]
-
-For a detailed view of all my projects, please visit the [Projects](#) section of my portfolio website.
-
-## 🙏 Acknowledgments
-
-I would like to extend a special thanks to **[JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)** and **Adrian** for inspiring me to embark on this journey. The content and guidance provided by JavaScript Mastery have been instrumental in shaping my development skills and fueling my passion for front-end development.
-
-## 🔗 Connect With Me
-
-- [LinkedIn](#)
-- [GitHub](#)
-- [Twitter](#)
-- [Email](mailto:your.email@example.com)
-
----
-
-<style>
-@keyframes fadeInUp {
-  0% {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.animate {
-  display: inline-block;
-  animation: fadeInUp 1.2s ease-out both;
-  animation-delay: 0.2s;
-}
-
-div img {
-  animation: fadeInUp 1.2s ease-out both;
-  animation-delay: 0.2s;
-}
-</style>
-
-Thank you for visiting my portfolio! I'm always eager to collaborate on exciting projects and explore new opportunities. Feel free to reach out if you'd like to connect.
+<h1>Yoom</h1>
+<hr><p>A real-life clone of Zoom</p><h2>General Information</h2>
+<hr><ul>
+<li>This is a real-life clone of Zoom, but it offers something special: You can schedule and record a meeting without using an alternative app, and it's totally free and without ads.</li>
+</ul><ul>
+<li>You can communicate effortlessly for as long as you like.</li>
+</ul><ul>
+<li>This is just a fun project.</li>
+</ul><h2>Technologies Used</h2>
+<hr><ul>
+<li>JavaScript</li>
+</ul><ul>
+<li>TypeScript</li>
+</ul><ul>
+<li>TailwindCSS</li>
+</ul><ul>
+<li>NextJS</li>
+</ul><ul>
+<li>Clerk</li>
+</ul><ul>
+<li>Stream.io</li>
+</ul><ul>
+<li>ShadcnUI</li>
+</ul><h2>Features</h2>
+<hr><ul>
+<li>Authentication: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.</li>
+</ul><ul>
+<li>New Meeting: Quickly start a new meeting, configuring camera and microphone settings before joining.</li>
+</ul><ul>
+<li>Meeting Controls: Participants have full control over meeting aspects, including recording, emoji reactions, screen sharing, muting/unmuting, sound adjustments, grid layout, participant list view, and individual participant management (pinning, muting, unmuting, blocking, allowing video share).</li>
+</ul><ul>
+<li>Exit Meeting: Participants can leave a meeting, or creators can end it for all attendees.</li>
+</ul><ul>
+<li>Schedule Future Meetings: Input meeting details (date, time) to schedule future meetings, accessible on the 'Upcoming Meetings' page for sharing the link or immediate start.</li>
+</ul><ul>
+<li>Past Meetings List: Access a list of previously held meetings, including details and metadata.</li>
+</ul><ul>
+<li>View Recorded Meetings: Access recordings of past meetings for review or reference.</li>
+</ul><h2>Project Status</h2>
+<hr><p>Completed ✔✔✔</p><h2>Acknowledgement</h2>
+<hr><ul>
+<li>Javascript Mastery inspires this project...</li>
+</ul>
